@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("你好");
         System.out.println("dev");
+        System.out.println("忽略测试");
     }
 }
